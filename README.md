@@ -6,4 +6,4 @@
 
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noisyboy&layout=compact)](https://github.com/noisyboy)
 
-> [![Noisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisyboy&show_icons=true&theme=tokyonight)](https://noisyboy.cf/)
+> [![Noisy's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisyboy&show_icons=true&theme=tokyonight)](https://noisyboy.cf)
